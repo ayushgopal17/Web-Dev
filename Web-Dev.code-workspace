@@ -29,7 +29,15 @@
 		},
 		{
 			"path": "../../../web development projects/4.1+Webpages"
+		},
+		{
+			"path": "../../../web development projects/4.3 HTML Porfolio Project"
+		},
+		{
+			"path": "../../../web development projects"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "4.3 HTML Porfolio Project"
+	}
 }
